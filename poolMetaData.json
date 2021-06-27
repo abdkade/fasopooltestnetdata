@@ -1,6 +1,6 @@
 {
   "name": "FasoPool",
-  "description": "FasoPool is secured, reliable, baremetal, Non profit stake pool that will donate 30% of rewards to the Barka Foundation.",
+  "description": "FasoPool is secured, reliable, a non profit stake pool that supports Barka Foundation.",
   "ticker": "FASO",
   "homepage": "https://fasostakepool.com/",
   "extended": "https://raw.githubusercontent.com/link78/fasopooldata/main/faso-extended.json" 
