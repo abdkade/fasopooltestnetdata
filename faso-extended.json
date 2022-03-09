@@ -1,7 +1,7 @@
 {
     "info": {
-        "url_png_icon_64x64": "https://github.com/link78/fasopooldata/blob/main/cover.png",
-        "url_png_logo": "https://github.com/link78/fasopooldata/blob/main/cover.png",
+        "url_png_icon_64x64": "https://kakstorage.blob.core.windows.net/fasopool/cover.png",
+        "url_png_logo": "https://kakstorage.blob.core.windows.net/fasopool/cover.png",
         "location": "Lincoln Nebraska, United States",
         "social": {
             "twitter_handle": "FasoPool",
