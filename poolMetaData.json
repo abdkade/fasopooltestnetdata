@@ -1,7 +1,6 @@
 {
-  "name": "FasoPool",
-  "description": "Fasopool is bare metal StakePool that supports Cardano Decentralization.(Nebraska,USA)",
-  "ticker": "FASO",
-  "homepage": "https://fasostakepool.com/",
-  "extended": "https://raw.githubusercontent.com/link78/fasopooldata/main/faso-extended.json" 
-  }
+"name": "Faso",
+"description": "FasoPool Testnet",
+"ticker": "FASO",
+"homepage": "https://link78.github.io/fasopoolTestnet.github.io/"
+}
